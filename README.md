@@ -1,2 +1,2 @@
-# C-INTRODU-O
+# Introducao C
 Inicio dos estudos sobre C++
